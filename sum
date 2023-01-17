@@ -1,0 +1,16 @@
+class program
+{
+public static void main (system.arg[])
+{
+int num1,num2,num3,sum;
+Console.WriteLine("enter first number");
+num1=convert.toint32(console.readline());
+console.writeline("enter the second number");
+num2=convert.toint32(console.readline());
+console.writeline("enter the third number");
+num3=convet.toint32(console.readline());
+sum = num1+num2+num3;
+console.writeline("sum of three number is -: "+sum);
+console.readline()
+}
+}
